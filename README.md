@@ -9,7 +9,7 @@
 
 #### The admin platform :
 
-
+there is advanced task to manage the admin (s) acount for the login or the sign up and for the super-admin, the same for the favorite client,the client and the person who will gîte his product, his différent2
 ## Notes :
 To the bast usage of the projet, 
 1. You must have some basis to Laravel 
@@ -18,3 +18,5 @@ To the bast usage of the projet,
 4. There's some port to config ( depends in witch are inactive at the executon ) it's preferable for you to change to the one that generaly aren't used to manage.
 5. 
 6. 
+
+
